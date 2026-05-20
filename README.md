@@ -19,18 +19,6 @@ https://snake-classifier.streamlit.app
 
 ---
 
-# 📸 Preview
-
-Add screenshots here after deployment.
-
-Example:
-
-```md
-![App Screenshot](assets/demo.png)
-```
-
----
-
 # ✨ Features
 
 ✅ Classifies **25 snake species**  
